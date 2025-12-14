@@ -113,6 +113,13 @@ export default function PersonalBrandingPage() {
   ]
 
   const testimonials = [
+   {
+      name: "imad",
+      role: "CEO, Tech Startup",
+      image: "/imad.jpg?height=80&width=80",
+      rating: 5,
+      text: "Une très bonne expérience. Studio bien équipé, équipe professionnelle et accompagnement sérieux pour produire un contenu de qualité.",
+    },
     {
       name: "oussama",
       role: "Coach Business",
