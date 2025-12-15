@@ -430,8 +430,6 @@ export default function PersonalBrandingPage() {
                   )}
                   <div className="bg-card p-6 border-t-4 border-accent">
                     <h3 className="font-bold text-lg text-foreground mb-1">{video.title}</h3>
-                    {/* Added description field */}
-                    <p className="text-foreground/60 text-sm mb-3">Description of the video</p>
                   </div>
                 </div>
               ))}
